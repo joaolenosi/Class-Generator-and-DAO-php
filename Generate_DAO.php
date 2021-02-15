@@ -1,4 +1,12 @@
 <?php
+/**
+ * Description: this file is responsible for generating the DAO according to the structure of the database table.
+ * Date          : 15-02-2021;   
+ * Author        : João Leno
+ * 1 - Campos    : Nome de todas as colunas da tabela
+ * 2 - Tabela    : Nome da tabela
+ * 3 - ID        : Chavé primária da tabela
+ */
 echo " <br><br>";
 $campos = array('idsecaolog','idquadra','numero','ocupacao','situacao','topografia','pedologia','posicao','uso','formaaquisicao	','fecho','testada','codparcela','drenagem','geo','latlong','URL','status','fotografia','geocodmunic');
 $cont 	= count($campos);
