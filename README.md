@@ -1,0 +1,1 @@
+Sistema para geração de classes e DAOS do PHP.
