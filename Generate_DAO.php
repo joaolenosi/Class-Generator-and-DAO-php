@@ -3,6 +3,7 @@
  * Description: this file is responsible for generating the DAO according to the structure of the database table.
  * Date          : 15-02-2021;   
  * Author        : João Leno
+ * E-mail        : joaolenosi@gmai.com
  * 1 - Campos    : Nome de todas as colunas da tabela
  * 2 - Tabela    : Nome da tabela
  * 3 - ID        : Chavé primária da tabela
